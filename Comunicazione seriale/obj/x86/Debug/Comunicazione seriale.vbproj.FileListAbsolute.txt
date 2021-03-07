@@ -1,0 +1,21 @@
+C:\Users\pinna.13104\Desktop\Comunicazione seriale\Comunicazione seriale\bin\Debug\Comunicazione seriale.exe
+C:\Users\pinna.13104\Desktop\Comunicazione seriale\Comunicazione seriale\bin\Debug\Comunicazione seriale.pdb
+C:\Users\pinna.13104\Desktop\Comunicazione seriale\Comunicazione seriale\bin\Debug\Comunicazione seriale.xml
+C:\Users\pinna.13104\Desktop\Comunicazione seriale\Comunicazione seriale\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\pinna.13104\Desktop\Comunicazione seriale\Comunicazione seriale\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\pinna.13104\Desktop\Comunicazione seriale\Comunicazione seriale\obj\x86\Debug\Comunicazione seriale.vbproj.GenerateResource.Cache
+C:\Users\pinna.13104\Desktop\Comunicazione seriale\Comunicazione seriale\obj\x86\Debug\Comunicazione seriale.exe
+C:\Users\pinna.13104\Desktop\Comunicazione seriale\Comunicazione seriale\obj\x86\Debug\Comunicazione seriale.xml
+C:\Users\pinna.13104\Desktop\Comunicazione seriale\Comunicazione seriale\obj\x86\Debug\Comunicazione seriale.pdb
+H:\Comunicazione seriale\Comunicazione seriale\obj\x86\Debug\Comunicazione seriale.exe
+H:\Comunicazione seriale\Comunicazione seriale\obj\x86\Debug\Comunicazione seriale.xml
+H:\Comunicazione seriale\Comunicazione seriale\obj\x86\Debug\Comunicazione seriale.pdb
+E:\Informatica 4ib\Telecomunicazioni\Comunicazione seriale\Comunicazione seriale\obj\x86\Debug\Comunicazione seriale.exe
+E:\Informatica 4ib\Telecomunicazioni\Comunicazione seriale\Comunicazione seriale\obj\x86\Debug\Comunicazione seriale.xml
+E:\Informatica 4ib\Telecomunicazioni\Comunicazione seriale\Comunicazione seriale\obj\x86\Debug\Comunicazione seriale.pdb
+E:\Informatica 4ib\Telecomunicazioni\Comunicazione seriale\Comunicazione seriale\bin\Debug\Comunicazione seriale.exe
+E:\Informatica 4ib\Telecomunicazioni\Comunicazione seriale\Comunicazione seriale\bin\Debug\Comunicazione seriale.pdb
+E:\Informatica 4ib\Telecomunicazioni\Comunicazione seriale\Comunicazione seriale\bin\Debug\Comunicazione seriale.xml
+E:\Informatica 4ib\Telecomunicazioni\Comunicazione seriale\Comunicazione seriale\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\Informatica 4ib\Telecomunicazioni\Comunicazione seriale\Comunicazione seriale\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Informatica 4ib\Telecomunicazioni\Comunicazione seriale\Comunicazione seriale\obj\x86\Debug\Comunicazione seriale.vbproj.GenerateResource.Cache
